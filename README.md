@@ -1,4 +1,5 @@
 # Machine-Learning---Assignment-Projects
+<p align="center">
 These assignment projects include a series of reports and corresponding Python scripts that document and implement a comprehensive machine learning workflow. 
 <br>
 __Project Assignment - 1:__ <br>
@@ -37,3 +38,4 @@ Select and fine-tune a pre-trained CNN model by adding custom layers on top. Tra
 <br>
 Task 3: Error Analysis
 Analyze the performance of the better model from Task 1 by examining 10 test images where the model made incorrect predictions. Identify potential reasons for these errors and check if the fine-tuned model from Task 2 improves on these cases.
+</p>
